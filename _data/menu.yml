@@ -1,0 +1,18 @@
+
+entries:
+  - title: me
+    url: https://dmmax.me
+    entries:
+      - title: wiki
+        url: https://wiki.dmmax.me
+      - title: keep in touch
+        url: false
+        entries:
+          - title: rss
+            url: /feed.xml
+      - title: quotes
+        url: /quotes
+  - title: posts
+    post_list: true
+    url: false
+    entries: false
