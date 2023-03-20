@@ -12,6 +12,8 @@ entries:
             url: /feed.xml
       - title: quotes
         url: /quotes
+      - title: referral links
+        url: /referral-links
   - title: posts
     post_list: true
     url: false
