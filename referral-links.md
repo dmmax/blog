@@ -1,5 +1,5 @@
 ---
-permalink: /quotes
+permalink: /referral-links
 layout: default
 title: Referral links
 ---
