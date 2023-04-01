@@ -45,4 +45,5 @@ I have used the bank for more than {{ today_days | minus: n26_start_usage_days |
 > a fee for the deposit.
 
 **Referral link**: {{page.traderepublic_url}}
+
 ---
