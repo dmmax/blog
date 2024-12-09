@@ -35,3 +35,7 @@ title: Цитаты из жизни
 ---
 {: data-content="customer1"}
 > I’m cool lol
+
+---
+{: data-content="M&M"}
+> Девиз года: родители были бы в шоке что мы делаем
